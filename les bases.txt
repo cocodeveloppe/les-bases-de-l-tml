@@ -1,0 +1,20 @@
+Installer sublime text ou alors visual studio code n'utiliser pas le text de base dans votre ordinateur cela ne peut ne pas fonctionner.
+Plusieurs tuto sont a votre disposition sur youtube ou alors sur mon github.
+
+Lancer votre logiciel.
+
+N'oublier pas de créer un fichier sur votre bureau de votre ordinateur.
+
+Créer un fichier qui vas s'appeller le css pour rajouter la couleurs sur votre site.
+
+Créer un fichier image pour ranger vos images pour votre site.
+
+Créer un fichier en .html exemple : accueil.html (Dans votre racine de votre fichier de votre site).
+
+Head est une balise de tête de page en interne de votre site web sans le voir sur votre site.
+
+Title est une balise pour votre titre de la page définie au niveaux de votre onglet.
+
+Body est une sous balise qui est importante et qui correspond l'ensemble de votre contenue.
+
+L'utf-8 a quoi sa sert ? En gros sa sert a mettre des accent sur votre site. Si vous le mettez pas les accent ne ce seront pas et vous aurez un problème d'encodage.
