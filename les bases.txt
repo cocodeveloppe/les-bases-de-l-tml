@@ -18,3 +18,17 @@ Title est une balise pour votre titre de la page définie au niveaux de votre on
 Body est une sous balise qui est importante et qui correspond l'ensemble de votre contenue.
 
 L'utf-8 a quoi sa sert ? En gros sa sert a mettre des accent sur votre site. Si vous le mettez pas les accent ne ce seront pas et vous aurez un problème d'encodage.
+
+La balise h1 sert principalement pour les titres de votre pages vue que c'est plus gros comme écriture.
+
+La balise h2 est plus petites que la balise h1 mais cependant vous avez plusieurs balise de h1 jusqu'à h6. (h1, h2, h3, h4, h5 ,h6).
+
+La balise a sert principalement pour les liens dans le href suffit de mettre une adresse web. Puis vous mettez a la fin juste avant le </a> un titre pour votre liens.
+
+L'attribu target sert a ouvrir votre liens dans un nouvelle onglet bien sur entre les gillements il est obligatoirement de mattre _BLANK sinon cela ne fonctionne pas.
+
+La balise img sert a mettre une images dans l'attribu src soie vous pouvez mettre un liens ou alors le liens qui est dans votre fichier image qui est sur votre ordinateur.
+
+L'attribu width sert principalement a modifier votre image en hauteur. L'attribu height sert principalement a modifier votre image en longeur.
+
+La balise link sert a relier votre fichier css a votre fichier html pour rajouter de la couleur.
